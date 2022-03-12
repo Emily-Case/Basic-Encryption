@@ -8,6 +8,8 @@ Create a file with:
 
 -The Number key on the second line (0 < numberKey < 26);
 
--The number of lines to encrypt;
+-The number of lines to encrypt/decrypt;
 
 -Lines of text equal to the number declared;
+
+Use the Codify method to encrypt and the decodify method to decrypt.
