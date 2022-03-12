@@ -1,5 +1,5 @@
 /**
-*@author José Rui Nogueira de Sá - fc58200
+*@author Emily SÃ¡
 */
 
 import java.io.File;
